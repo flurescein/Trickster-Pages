@@ -1,0 +1,29 @@
+{
+  "name": "trickster-pages",
+  "version": "0.0.1",
+  "description": "Pages for Trickster client.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flurescein/Trickster-Pages.git"
+  },
+  "keywords": [
+    "pages",
+    "trickster"
+  ],
+  "author": "in2all",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flurescein/Trickster-Pages/issues"
+  },
+  "homepage": "https://github.com/flurescein/Trickster-Pages#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-stylus": "^2.6.0"
+  }
+}
